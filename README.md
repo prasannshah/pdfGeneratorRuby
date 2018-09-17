@@ -11,5 +11,5 @@ This project has no dependencies on resources other than wicked_pdf.
 
 This project exposes a single api
 
-> Post "https://pdf-generator-ruby.herokuapp.com/convert"
-> Payload: { html: "<html><h1>Test</h1></html>"}
+> Post "https://pdf-generator-ruby.herokuapp.com/convert"<br>
+> Payload: { html: "<html>Test</html>"}
